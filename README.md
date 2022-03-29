@@ -46,7 +46,7 @@ This project is a simple example to training and learn DynamoDB with Node.js and
 - Clone this repository: `git clone git@github.com:alisonglima/simple-nodejs-dynamodb-api-example.git`
 - Open project folder: `cd simple-nodejs-dynamodb-api-example`
 - Run docker-compose: `docker-compose up -d`
-- Download and import Insomnia documentation and enjoy: ./github/DynamoTestAPI.json
+- Download and import Insomnia documentation and enjoy: [DynamoTestAPI](./github/DynamoTestAPI.json)
 
 ## 🤔 How to contribute
 
