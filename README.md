@@ -6,14 +6,14 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alisonglima/simple-nodejs-dynamodb-api-example.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alisonglima/simple-nodejs-dynamodb-api-example.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alisonglima/simple-nodejs-dynamodb-api-example">
   
   <a href="https://github.com/alisonglima/simple-nodejs-dynamodb-api-example/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alisonglima/simple-nodejs-dynamodb-api-example.svg">
   </a>
 
   <a href="https://github.com/alisonglima/simple-nodejs-dynamodb-api-example/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/alisonglima/simple-nodejs-dynamodb-api-example.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alisonglima/simple-nodejs-dynamodb-api-example">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
